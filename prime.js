@@ -1,3 +1,4 @@
+Let count=0;
 Let num=7;
 for(i=1;i<=num;i++){
  if(num%i==0){
