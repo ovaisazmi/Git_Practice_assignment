@@ -1,3 +1,4 @@
+let count=0;
 Let num=7;
 for(i=1;i<=num;i++){
  if(num%i==0){
@@ -6,7 +7,7 @@ for(i=1;i<=num;i++){
 if(count==2){
  Console.log("Prime");
 }
-Else{
+else{
 Console.log("Not Prime")
 }
 }
